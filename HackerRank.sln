@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31521.260
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesByMatch", "SalesByMatch\SalesByMatch.csproj", "{B9BAB181-6225-49C4-8DF0-3D53D41EED4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesByMatch", "SalesByMatch\SalesByMatch.csproj", "{B9BAB181-6225-49C4-8DF0-3D53D41EED4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValeys", "CountingValeys\CountingValeys.csproj", "{53C72FD6-DC1E-42EB-B31B-DFF890AE3E99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingValeys", "CountingValeys\CountingValeys.csproj", "{53C72FD6-DC1E-42EB-B31B-DFF890AE3E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpingOnTheClouds", "JumpingOnTheClouds\JumpingOnTheClouds.csproj", "{32AA1E84-510C-4EE9-B4CB-342197C28329}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{53C72FD6-DC1E-42EB-B31B-DFF890AE3E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53C72FD6-DC1E-42EB-B31B-DFF890AE3E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53C72FD6-DC1E-42EB-B31B-DFF890AE3E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AA1E84-510C-4EE9-B4CB-342197C28329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AA1E84-510C-4EE9-B4CB-342197C28329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AA1E84-510C-4EE9-B4CB-342197C28329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AA1E84-510C-4EE9-B4CB-342197C28329}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
