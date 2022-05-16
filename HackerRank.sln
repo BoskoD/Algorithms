@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatedString", "RepeatedS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{49B395D5-4E9A-429B-BD54-69631608E638}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{8320E2DC-6B41-4199-97CF-128087F5D4B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{49B395D5-4E9A-429B-BD54-69631608E638}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49B395D5-4E9A-429B-BD54-69631608E638}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49B395D5-4E9A-429B-BD54-69631608E638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8320E2DC-6B41-4199-97CF-128087F5D4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8320E2DC-6B41-4199-97CF-128087F5D4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8320E2DC-6B41-4199-97CF-128087F5D4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8320E2DC-6B41-4199-97CF-128087F5D4B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
