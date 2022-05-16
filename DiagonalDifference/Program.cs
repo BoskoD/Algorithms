@@ -5,7 +5,7 @@ namespace DiagonalDifference
 {
     class Result
     {
-        public static int diagonalDifference(int[][] arr)
+        public static int DiagonalDifference(int[][] arr)
         {
             int sumLr = 0;
             int sumRl = 0;
@@ -33,7 +33,7 @@ namespace DiagonalDifference
                 arr[i] = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
             }
 
-            int result = Result.diagonalDifference(arr);
+            int result = Result.DiagonalDifference(arr);
 
             Console.WriteLine(result);
         }
