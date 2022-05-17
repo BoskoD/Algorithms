@@ -11,15 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpingOnTheClouds", "Jumpi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatedString", "RepeatedString\RepeatedString.csproj", "{B61CC317-CC3B-43BD-8A92-D126E1BBE6CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{49B395D5-4E9A-429B-BD54-69631608E638}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{49B395D5-4E9A-429B-BD54-69631608E638}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{8320E2DC-6B41-4199-97CF-128087F5D4B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{8320E2DC-6B41-4199-97CF-128087F5D4B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{ECB06117-AD8B-44E0-8656-655966A00E94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{ECB06117-AD8B-44E0-8656-655966A00E94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSum", "MiniMaxSum\MiniMaxSum.csproj", "{27BFD93D-36F0-4DB2-A2F8-D1A5809806BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniMaxSum", "MiniMaxSum\MiniMaxSum.csproj", "{27BFD93D-36F0-4DB2-A2F8-D1A5809806BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{3EE3DC21-48D0-47CB-887A-6D2C0D2C9A17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCakeCandles", "BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{3EE3DC21-48D0-47CB-887A-6D2C0D2C9A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{32B87302-3BF8-439B-A619-9E1CECC8906C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{3EE3DC21-48D0-47CB-887A-6D2C0D2C9A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EE3DC21-48D0-47CB-887A-6D2C0D2C9A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EE3DC21-48D0-47CB-887A-6D2C0D2C9A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B87302-3BF8-439B-A619-9E1CECC8906C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B87302-3BF8-439B-A619-9E1CECC8906C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B87302-3BF8-439B-A619-9E1CECC8906C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B87302-3BF8-439B-A619-9E1CECC8906C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
