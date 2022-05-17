@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{7A30
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamelCase", "Strings\CamelCase\CamelCase.csproj", "{98395B03-D702-4FC4-8B6E-19EDB1267F1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongPassword", "Strings\StrongPassword\StrongPassword.csproj", "{5B57F078-DBA1-40EF-ACAA-6FFF688FCE63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,12 +79,17 @@ Global
 		{98395B03-D702-4FC4-8B6E-19EDB1267F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98395B03-D702-4FC4-8B6E-19EDB1267F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98395B03-D702-4FC4-8B6E-19EDB1267F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B57F078-DBA1-40EF-ACAA-6FFF688FCE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B57F078-DBA1-40EF-ACAA-6FFF688FCE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B57F078-DBA1-40EF-ACAA-6FFF688FCE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B57F078-DBA1-40EF-ACAA-6FFF688FCE63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{98395B03-D702-4FC4-8B6E-19EDB1267F1F} = {7A306FC3-5648-4A58-A8A9-2D5A555788A5}
+		{5B57F078-DBA1-40EF-ACAA-6FFF688FCE63} = {7A306FC3-5648-4A58-A8A9-2D5A555788A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A2B2FBA-F8DD-4351-B77F-12356B7EC8C9}
