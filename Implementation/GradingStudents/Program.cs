@@ -18,7 +18,6 @@ namespace GradingStudents
             }
 
             List<int> result = Result.GradingStudents(grades);
-
             Console.WriteLine(String.Join("\n", result));
         }
     }
