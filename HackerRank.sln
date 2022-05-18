@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniMaxSum", "Warmup\MiniMa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCakeCandles", "Warmup\BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{3EE3DC21-48D0-47CB-887A-6D2C0D2C9A17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "Warmup\TimeConversion\TimeConversion.csproj", "{32B87302-3BF8-439B-A619-9E1CECC8906C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "Warmup\TimeConversion\TimeConversion.csproj", "{32B87302-3BF8-439B-A619-9E1CECC8906C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{7A306FC3-5648-4A58-A8A9-2D5A555788A5}"
 EndProject
@@ -34,6 +34,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaesarCipher", "Strings\CaesarCipher\CaesarCipher.csproj", "{0B4D4961-4E8A-4C67-BC41-E76F301AE72D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Warmup", "Warmup", "{EAEFB73F-CFB9-4824-9836-22EFC576C669}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implementation", "Implementation", "{640E3AFC-EF59-429C-A83F-7A636608D72F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "Implementation\GradingStudents\GradingStudents.csproj", "{EFE33C20-ABE6-4D67-9942-063DFF595ECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,6 +101,10 @@ Global
 		{0B4D4961-4E8A-4C67-BC41-E76F301AE72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B4D4961-4E8A-4C67-BC41-E76F301AE72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B4D4961-4E8A-4C67-BC41-E76F301AE72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE33C20-ABE6-4D67-9942-063DFF595ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE33C20-ABE6-4D67-9942-063DFF595ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE33C20-ABE6-4D67-9942-063DFF595ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE33C20-ABE6-4D67-9942-063DFF595ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,6 +124,7 @@ Global
 		{5B57F078-DBA1-40EF-ACAA-6FFF688FCE63} = {7A306FC3-5648-4A58-A8A9-2D5A555788A5}
 		{382E3F53-23AF-419C-A3F3-C10294EC4314} = {7A306FC3-5648-4A58-A8A9-2D5A555788A5}
 		{0B4D4961-4E8A-4C67-BC41-E76F301AE72D} = {7A306FC3-5648-4A58-A8A9-2D5A555788A5}
+		{EFE33C20-ABE6-4D67-9942-063DFF595ECE} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A2B2FBA-F8DD-4351-B77F-12356B7EC8C9}
