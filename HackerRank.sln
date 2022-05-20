@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberLinesJump", "Implemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "Implementation\BetweenTwoSets\BetweenTwoSets.csproj", "{DE8E086F-ADE2-4F55-86BB-28E4F5F9AC10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakingTheRecords", "Implementation\BreakingTheRecords\BreakingTheRecords.csproj", "{5F2F9FA5-BD09-4946-AE92-4356D316190A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{DE8E086F-ADE2-4F55-86BB-28E4F5F9AC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE8E086F-ADE2-4F55-86BB-28E4F5F9AC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE8E086F-ADE2-4F55-86BB-28E4F5F9AC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2F9FA5-BD09-4946-AE92-4356D316190A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2F9FA5-BD09-4946-AE92-4356D316190A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2F9FA5-BD09-4946-AE92-4356D316190A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2F9FA5-BD09-4946-AE92-4356D316190A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,6 +152,7 @@ Global
 		{27109C20-7284-4555-846A-935DD10DF166} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 		{69C44E3A-8ED1-4D70-9816-0A50B83620DC} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 		{DE8E086F-ADE2-4F55-86BB-28E4F5F9AC10} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
+		{5F2F9FA5-BD09-4946-AE92-4356D316190A} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A2B2FBA-F8DD-4351-B77F-12356B7EC8C9}
