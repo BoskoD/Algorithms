@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreakingTheRecords", "Imple
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision", "Implementation\SubarrayDivision\SubarrayDivision.csproj", "{11F269DE-CFA2-451D-9A7C-3275C4D92903}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "Implementation\DivisibleSumPairs\DivisibleSumPairs.csproj", "{85AEE21D-6DE7-4B5E-ACA5-19B4D14558D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{11F269DE-CFA2-451D-9A7C-3275C4D92903}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11F269DE-CFA2-451D-9A7C-3275C4D92903}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11F269DE-CFA2-451D-9A7C-3275C4D92903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85AEE21D-6DE7-4B5E-ACA5-19B4D14558D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85AEE21D-6DE7-4B5E-ACA5-19B4D14558D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85AEE21D-6DE7-4B5E-ACA5-19B4D14558D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85AEE21D-6DE7-4B5E-ACA5-19B4D14558D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -160,6 +166,7 @@ Global
 		{DE8E086F-ADE2-4F55-86BB-28E4F5F9AC10} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 		{5F2F9FA5-BD09-4946-AE92-4356D316190A} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 		{11F269DE-CFA2-451D-9A7C-3275C4D92903} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
+		{85AEE21D-6DE7-4B5E-ACA5-19B4D14558D1} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A2B2FBA-F8DD-4351-B77F-12356B7EC8C9}
