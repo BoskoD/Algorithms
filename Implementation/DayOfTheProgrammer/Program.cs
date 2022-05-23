@@ -67,7 +67,6 @@ namespace DayOfTheProgrammer
             }
             return false;
         }
-
         private static bool IsJulianLeapYear(int year)
         {
             if (year % 4 == 0)
