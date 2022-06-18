@@ -9,7 +9,11 @@ namespace RemoveDuplicatesFromSortedArray
         {
             int[] numbers = new int[10] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };
             int length = Result.RemoveDuplicates(numbers);
-            Console.WriteLine(length);
+            Console.WriteLine($"Length of updated array: {length}");
+            for (int i = 0; i < length; i++)
+            {
+                Console.Write(numbers[i] + " ");
+            }
         }
     }
 
