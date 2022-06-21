@@ -101,7 +101,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{526A07
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "Arrays\RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{EF1F2DEE-7C8B-4277-8FB7-B71D08E761DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "Arrays\RotateArray\RotateArray.csproj", "{7A9F2A28-2C50-40A4-A7A1-A9D9DE92D54F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateArray", "Arrays\RotateArray\RotateArray.csproj", "{7A9F2A28-2C50-40A4-A7A1-A9D9DE92D54F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "Arrays\ContainsDuplicate\ContainsDuplicate.csproj", "{D629E5AE-0113-4615-B4ED-0621A6CB223B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -281,6 +283,10 @@ Global
 		{7A9F2A28-2C50-40A4-A7A1-A9D9DE92D54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A9F2A28-2C50-40A4-A7A1-A9D9DE92D54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A9F2A28-2C50-40A4-A7A1-A9D9DE92D54F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D629E5AE-0113-4615-B4ED-0621A6CB223B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D629E5AE-0113-4615-B4ED-0621A6CB223B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D629E5AE-0113-4615-B4ED-0621A6CB223B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D629E5AE-0113-4615-B4ED-0621A6CB223B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -329,6 +335,7 @@ Global
 		{2AF3680A-F604-4BE5-B3E4-5E7357C09C70} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 		{EF1F2DEE-7C8B-4277-8FB7-B71D08E761DE} = {526A07D6-CEEC-4E5E-BBC1-F5E0169D06C6}
 		{7A9F2A28-2C50-40A4-A7A1-A9D9DE92D54F} = {526A07D6-CEEC-4E5E-BBC1-F5E0169D06C6}
+		{D629E5AE-0113-4615-B4ED-0621A6CB223B} = {526A07D6-CEEC-4E5E-BBC1-F5E0169D06C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A2B2FBA-F8DD-4351-B77F-12356B7EC8C9}
