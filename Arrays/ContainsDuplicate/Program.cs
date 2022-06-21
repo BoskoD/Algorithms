@@ -13,6 +13,7 @@ namespace ContainsDuplicate
             Console.WriteLine(result);
         }
     }
+
     internal class Result
     {
         internal static bool ContainsDuplicate(int[] array)
