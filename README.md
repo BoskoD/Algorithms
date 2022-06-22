@@ -1,5 +1,5 @@
 # Algorithms
 
-Problem solving practice
-https://www.hackerrank.com/dashboard
+Problem solving practice </br>
+https://www.hackerrank.com/dashboard </br>
 https://leetcode.com/problemset/all/
