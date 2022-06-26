@@ -107,7 +107,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicate", "Arrays
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViralAdvertising", "Implementation\ViralAdvertising\ViralAdvertising.csproj", "{EE611641-2B4A-42EE-AAC6-DCE18FE614B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveThePrisoner", "Implementation\SaveThePrisoner\SaveThePrisoner.csproj", "{E4C371CC-7A29-400A-BEFF-3F7255672079}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaveThePrisoner", "Implementation\SaveThePrisoner\SaveThePrisoner.csproj", "{E4C371CC-7A29-400A-BEFF-3F7255672079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleNumber", "Arrays\SingleNumber\SingleNumber.csproj", "{BFC5DF85-7021-46E9-B77B-AD65D024F97E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -299,6 +301,10 @@ Global
 		{E4C371CC-7A29-400A-BEFF-3F7255672079}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4C371CC-7A29-400A-BEFF-3F7255672079}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4C371CC-7A29-400A-BEFF-3F7255672079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC5DF85-7021-46E9-B77B-AD65D024F97E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC5DF85-7021-46E9-B77B-AD65D024F97E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC5DF85-7021-46E9-B77B-AD65D024F97E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC5DF85-7021-46E9-B77B-AD65D024F97E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -350,6 +356,7 @@ Global
 		{D629E5AE-0113-4615-B4ED-0621A6CB223B} = {526A07D6-CEEC-4E5E-BBC1-F5E0169D06C6}
 		{EE611641-2B4A-42EE-AAC6-DCE18FE614B9} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 		{E4C371CC-7A29-400A-BEFF-3F7255672079} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
+		{BFC5DF85-7021-46E9-B77B-AD65D024F97E} = {526A07D6-CEEC-4E5E-BBC1-F5E0169D06C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A2B2FBA-F8DD-4351-B77F-12356B7EC8C9}
