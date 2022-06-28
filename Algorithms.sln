@@ -111,7 +111,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaveThePrisoner", "Implemen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleNumber", "Arrays\SingleNumber\SingleNumber.csproj", "{BFC5DF85-7021-46E9-B77B-AD65D024F97E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "Strings\ReverseString\ReverseString.csproj", "{87672E1A-271A-496F-A5AE-F8CA662D5287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "Strings\ReverseString\ReverseString.csproj", "{87672E1A-271A-496F-A5AE-F8CA662D5287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstUniqueCharacterInAString", "Strings\FirstUniqueCharacterInAString\FirstUniqueCharacterInAString.csproj", "{464E22E7-F0B6-4C5A-A4F5-2992E081D047}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -311,6 +313,10 @@ Global
 		{87672E1A-271A-496F-A5AE-F8CA662D5287}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87672E1A-271A-496F-A5AE-F8CA662D5287}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87672E1A-271A-496F-A5AE-F8CA662D5287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464E22E7-F0B6-4C5A-A4F5-2992E081D047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464E22E7-F0B6-4C5A-A4F5-2992E081D047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464E22E7-F0B6-4C5A-A4F5-2992E081D047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464E22E7-F0B6-4C5A-A4F5-2992E081D047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -364,6 +370,7 @@ Global
 		{E4C371CC-7A29-400A-BEFF-3F7255672079} = {640E3AFC-EF59-429C-A83F-7A636608D72F}
 		{BFC5DF85-7021-46E9-B77B-AD65D024F97E} = {526A07D6-CEEC-4E5E-BBC1-F5E0169D06C6}
 		{87672E1A-271A-496F-A5AE-F8CA662D5287} = {7A306FC3-5648-4A58-A8A9-2D5A555788A5}
+		{464E22E7-F0B6-4C5A-A4F5-2992E081D047} = {7A306FC3-5648-4A58-A8A9-2D5A555788A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A2B2FBA-F8DD-4351-B77F-12356B7EC8C9}
