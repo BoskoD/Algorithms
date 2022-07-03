@@ -2,7 +2,7 @@
 
 namespace TimeConversion
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -12,7 +12,7 @@ namespace TimeConversion
         }
     }
 
-    class Result 
+    public class Result 
     {
         public static string ConvertTimeToMilitary(string s)
         {

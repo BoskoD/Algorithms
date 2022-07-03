@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace SalesByMatch
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -14,9 +14,9 @@ namespace SalesByMatch
         }
     }
 
-    internal class Result
+    public class Result
     {
-        internal static int SockMerchant(int size, int[] socks)
+        public static int SockMerchant(int size, int[] socks)
         {
             var colors = new HashSet<int>();
             int pairs = 0;

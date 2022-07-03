@@ -3,7 +3,7 @@ using System;
 
 namespace ReverseString
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -15,7 +15,7 @@ namespace ReverseString
         }
     }
 
-    internal class Result
+    public class Result
     {
         internal static void ReverseString(char[] word)
         {

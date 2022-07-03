@@ -2,7 +2,7 @@
 
 namespace CamelCase
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -13,7 +13,7 @@ namespace CamelCase
         }
     }
 
-    class Result
+    public class Result
     {
         public static int CamelCase(string s)
         {
