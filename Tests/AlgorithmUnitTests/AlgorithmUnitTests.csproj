@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Implementation\SalesByMatch\SalesByMatch.csproj" />
+    <ProjectReference Include="..\..\LinkedList\RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList.csproj" />
     <ProjectReference Include="..\..\Strings\CamelCase\CamelCase.csproj" />
     <ProjectReference Include="..\..\Warmup\TimeConversion\TimeConversion.csproj" />
   </ItemGroup>
