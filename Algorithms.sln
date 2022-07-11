@@ -133,7 +133,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementStrStr", "Strings\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionOfTwoArrays", "Arrays\IntersectionOfTwoArrays\IntersectionOfTwoArrays.csproj", "{59DA7568-C258-4326-B78F-63D81153D81F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "Arrays\PlusOne\PlusOne.csproj", "{3CE0153B-C86A-4BA2-8398-0966A4341BF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "Arrays\PlusOne\PlusOne.csproj", "{3CE0153B-C86A-4BA2-8398-0966A4341BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeros", "Arrays\MoveZeros\MoveZeros.csproj", "{2D2DCB41-BEAA-4AE1-8A0D-3DEB881BBC83}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -369,6 +371,10 @@ Global
 		{3CE0153B-C86A-4BA2-8398-0966A4341BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CE0153B-C86A-4BA2-8398-0966A4341BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CE0153B-C86A-4BA2-8398-0966A4341BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2DCB41-BEAA-4AE1-8A0D-3DEB881BBC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2DCB41-BEAA-4AE1-8A0D-3DEB881BBC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2DCB41-BEAA-4AE1-8A0D-3DEB881BBC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2DCB41-BEAA-4AE1-8A0D-3DEB881BBC83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -431,6 +437,7 @@ Global
 		{B8870F8C-2B94-4CD4-A5D3-C6E8F623B6B8} = {7A306FC3-5648-4A58-A8A9-2D5A555788A5}
 		{59DA7568-C258-4326-B78F-63D81153D81F} = {526A07D6-CEEC-4E5E-BBC1-F5E0169D06C6}
 		{3CE0153B-C86A-4BA2-8398-0966A4341BF2} = {526A07D6-CEEC-4E5E-BBC1-F5E0169D06C6}
+		{2D2DCB41-BEAA-4AE1-8A0D-3DEB881BBC83} = {526A07D6-CEEC-4E5E-BBC1-F5E0169D06C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A2B2FBA-F8DD-4351-B77F-12356B7EC8C9}
