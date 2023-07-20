@@ -11,7 +11,7 @@
 
         public static bool DetectectDuplicate(int[] nums)
         {
-            if (nums is not null && nums.Length < 2) { return false; }
+            if (nums is not null || nums.Length < 2) { return false; }
 
             HashSet<int> set = new();
             foreach (var num in nums)
