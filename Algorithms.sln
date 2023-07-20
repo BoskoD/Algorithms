@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLists", "Merg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{6928E54A-C569-4F60-82CE-FAE374B95F1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6928E54A-C569-4F60-82CE-FAE374B95F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6928E54A-C569-4F60-82CE-FAE374B95F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6928E54A-C569-4F60-82CE-FAE374B95F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
