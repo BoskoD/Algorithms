@@ -1,6 +1,6 @@
 ﻿namespace ValidAnagram
 {
-    internal class Program // HashTable, String, Sorting
+    internal class Program
     {
         static void Main(string[] args)
         {
