@@ -1,6 +1,6 @@
 ﻿namespace GroupAnagrams
 {
-    internal class Program // Array, Hash Table, String, Sorting
+    internal class Program
     {
         static void Main(string[] args)
         {
