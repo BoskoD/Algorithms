@@ -1,6 +1,6 @@
 ﻿namespace ValidParentheses
 {
-    internal class Program // String, Stack
+    internal class Program
     {
         static void Main(string[] args)
         {
