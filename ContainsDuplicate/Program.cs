@@ -1,6 +1,6 @@
 ﻿namespace ContainsDuplicate
 {
-    internal class Program // Array, HashTable, Sorting
+    internal class Program
     {
         static void Main(string[] args)
         {
