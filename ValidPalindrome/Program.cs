@@ -1,6 +1,6 @@
 ﻿namespace ValidPalindrome
 {
-    internal class Program // Two Pointers, String
+    internal class Program
     {
         static void Main(string[] args)
         {
