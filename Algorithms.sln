@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidPa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{7C721322-4D3F-46A8-BF37-F6240AE0DB7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{6928E54A-C569-4F60-82CE-FAE374B95F1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{6928E54A-C569-4F60-82CE-FAE374B95F1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{15011120-326D-41FB-BAF3-AA8546432F55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15011120-326D-41FB-BAF3-AA8546432F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15011120-326D-41FB-BAF3-AA8546432F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15011120-326D-41FB-BAF3-AA8546432F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15011120-326D-41FB-BAF3-AA8546432F55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
