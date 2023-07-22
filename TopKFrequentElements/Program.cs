@@ -1,6 +1,6 @@
 ﻿namespace TopKFrequentElements
 {
-    internal class Program // Array, HashTable, Heap (PriorityQueue) or LINQ
+    internal class Program
     {
         static void Main(string[] args)
         {
