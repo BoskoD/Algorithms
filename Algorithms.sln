@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainsDuplicate", "Contai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{6A3D006C-D4EC-4F8E-9EBE-4DB2837439DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{15011120-326D-41FB-BAF3-AA8546432F55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{15011120-326D-41FB-BAF3-AA8546432F55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{9819DF0F-FB8E-48AE-A40D-FFCED3E33999}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidPalindrome", "ValidPalindrome\ValidPalindrome.csproj", "{9819DF0F-FB8E-48AE-A40D-FFCED3E33999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopKFrequentElements", "TopKFrequentElements\TopKFrequentElements.csproj", "{103F12F1-88CF-44A9-BF79-E4E6698B1BA6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{9819DF0F-FB8E-48AE-A40D-FFCED3E33999}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9819DF0F-FB8E-48AE-A40D-FFCED3E33999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9819DF0F-FB8E-48AE-A40D-FFCED3E33999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103F12F1-88CF-44A9-BF79-E4E6698B1BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103F12F1-88CF-44A9-BF79-E4E6698B1BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103F12F1-88CF-44A9-BF79-E4E6698B1BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103F12F1-88CF-44A9-BF79-E4E6698B1BA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
