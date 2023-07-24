@@ -1,6 +1,6 @@
 ﻿namespace ProductOfArrayExceptSelf
 {
-    internal class Program // Array, Prefix Sum
+    internal class Program
     {
         static void Main(string[] args)
         {
