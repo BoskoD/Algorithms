@@ -1,6 +1,6 @@
 ﻿namespace TwoSum_II_InputArrayIsSorted
 {
-    internal class Program // Array, Two Pointers
+    internal class Program
     {
         static void Main(string[] args)
         {
