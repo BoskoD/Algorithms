@@ -1,6 +1,6 @@
 ﻿namespace BinarySearch
 {
-    internal class Program // Array, Binary Search
+    internal class Program
     {
         static void Main(string[] args)
         {
