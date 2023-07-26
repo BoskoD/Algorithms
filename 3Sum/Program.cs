@@ -1,6 +1,6 @@
 ﻿namespace _3Sum
 {
-    internal class Program
+    internal class Program // Array, Two Pointers, Sorting
     {
         static void Main(string[] args)
         {
