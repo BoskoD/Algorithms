@@ -1,6 +1,6 @@
 ﻿namespace BestTimeToBuyAndSellStock
 {
-    internal class Program // Array, Dynamic Programming
+    internal class Program
     {
         static void Main(string[] args)
         {
