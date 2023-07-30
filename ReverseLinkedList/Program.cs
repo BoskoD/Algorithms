@@ -1,6 +1,6 @@
 ﻿namespace ReverseLinkedList
 {
-    internal class Program // LinkedList, Two Pointers
+    internal class Program
     {
         static void Main(string[] args)
         {
