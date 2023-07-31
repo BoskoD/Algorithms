@@ -1,6 +1,6 @@
 ﻿namespace LongestConsecutiveSequence
 {
-    internal class Program // Array, HashTable
+    internal class Program
     {
         static void Main(string[] args)
         {
