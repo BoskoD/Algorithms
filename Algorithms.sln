@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock", "BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock.csproj", "{9573D041-787E-4438-8D9D-C5D1B10A06E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{CEE7E5DD-8CA9-49FE-B45D-9CF8066BA004}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{CEE7E5DD-8CA9-49FE-B45D-9CF8066BA004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestConsecutiveSequence", "LongestConsecutiveSequence\LongestConsecutiveSequence.csproj", "{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{CEE7E5DD-8CA9-49FE-B45D-9CF8066BA004}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEE7E5DD-8CA9-49FE-B45D-9CF8066BA004}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEE7E5DD-8CA9-49FE-B45D-9CF8066BA004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
