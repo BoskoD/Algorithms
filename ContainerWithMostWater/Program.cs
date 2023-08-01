@@ -1,6 +1,6 @@
 ﻿namespace ContainerWithMostWater
 {
-    internal class Program // Array, TwoPointers, Greedy
+    internal class Program
     {
         static void Main(string[] args)
         {
