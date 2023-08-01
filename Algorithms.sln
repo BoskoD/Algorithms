@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStock",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{CEE7E5DD-8CA9-49FE-B45D-9CF8066BA004}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestConsecutiveSequence", "LongestConsecutiveSequence\LongestConsecutiveSequence.csproj", "{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestConsecutiveSequence", "LongestConsecutiveSequence\LongestConsecutiveSequence.csproj", "{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{C35194F6-BE91-4513-B950-289839E0B85F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66BF78AA-F728-475A-A8A3-5F8153E4DD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35194F6-BE91-4513-B950-289839E0B85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35194F6-BE91-4513-B950-289839E0B85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35194F6-BE91-4513-B950-289839E0B85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35194F6-BE91-4513-B950-289839E0B85F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
