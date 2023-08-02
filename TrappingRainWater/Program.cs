@@ -1,6 +1,6 @@
 ﻿namespace TrappingRainWater
 {
-    internal class Program // Array, Two Pinters, Dynamic Programming
+    internal class Program
     {
         static void Main(string[] args)
         {
