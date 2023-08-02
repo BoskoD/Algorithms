@@ -11,7 +11,7 @@
 
         public static int TrapWater(int[] height)
         {
-            if (height == null || height.Length == 0) return 0;
+            if (height == null || height.Length == 0) { return 0; }
 
             int left = 0;
             int right = height.Length - 1;
