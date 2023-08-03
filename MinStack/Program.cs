@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            MinimumStack<int> stack = new();
+            MinimumStack stack = new();
             stack.Push(-2);
             stack.Push(0);
             stack.Push(-3);
@@ -16,7 +16,7 @@
         }
     }
 
-    public class MinimumStack<T>
+    public class MinimumStack
     {
         readonly Stack<int> stack;
         readonly Stack<int> minStack;
