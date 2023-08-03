@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestConsecutiveSequence"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{C35194F6-BE91-4513-B950-289839E0B85F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrappingRainWater", "TrappingRainWater\TrappingRainWater.csproj", "{EABF375F-E7A1-4707-8874-2B3129C9DB0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrappingRainWater", "TrappingRainWater\TrappingRainWater.csproj", "{EABF375F-E7A1-4707-8874-2B3129C9DB0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinStack", "MinStack\MinStack.csproj", "{A3671C30-00FA-47EC-BFE7-ECD2F42F07A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{EABF375F-E7A1-4707-8874-2B3129C9DB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EABF375F-E7A1-4707-8874-2B3129C9DB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EABF375F-E7A1-4707-8874-2B3129C9DB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3671C30-00FA-47EC-BFE7-ECD2F42F07A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3671C30-00FA-47EC-BFE7-ECD2F42F07A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3671C30-00FA-47EC-BFE7-ECD2F42F07A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3671C30-00FA-47EC-BFE7-ECD2F42F07A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
