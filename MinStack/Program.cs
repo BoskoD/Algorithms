@@ -1,6 +1,6 @@
 ﻿namespace MinStack
 {
-    internal class Program // Stack, Design
+    internal class Program
     {
         static void Main(string[] args)
         {
