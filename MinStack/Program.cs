@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            MinimumStack<int> stack = new MinimumStack<int>();
+            MinimumStack<int> stack = new();
             stack.Push(-2);
             stack.Push(0);
             stack.Push(-3);
