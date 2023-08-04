@@ -1,6 +1,6 @@
 ﻿namespace Search2DMatrix
 {
-    internal class Program // Array, Binary Search, Matrix
+    internal class Program
     {
         static void Main(string[] args)
         {
