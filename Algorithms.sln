@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrappingRainWater", "Trappi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinStack", "MinStack\MinStack.csproj", "{A3671C30-00FA-47EC-BFE7-ECD2F42F07A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search2DMatrix", "Search2DMatrix\Search2DMatrix.csproj", "{DF7BB490-387D-42BE-A820-5A092725DE4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search2DMatrix", "Search2DMatrix\Search2DMatrix.csproj", "{DF7BB490-387D-42BE-A820-5A092725DE4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvaluateReversePolishNotation", "EvaluateReversePolishNotation\EvaluateReversePolishNotation.csproj", "{CB5DD107-9861-48D8-B7E7-691A4271BA85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{DF7BB490-387D-42BE-A820-5A092725DE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF7BB490-387D-42BE-A820-5A092725DE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF7BB490-387D-42BE-A820-5A092725DE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5DD107-9861-48D8-B7E7-691A4271BA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5DD107-9861-48D8-B7E7-691A4271BA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5DD107-9861-48D8-B7E7-691A4271BA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5DD107-9861-48D8-B7E7-691A4271BA85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
