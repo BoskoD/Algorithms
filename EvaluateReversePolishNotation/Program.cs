@@ -1,6 +1,6 @@
 ﻿namespace EvaluateReversePolishNotation
 {
-    internal class Program // Array, Math, Stack
+    internal class Program
     {
         static void Main(string[] args)
         {
