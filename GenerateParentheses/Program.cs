@@ -2,7 +2,7 @@
 
 namespace GenerateParentheses
 {
-    internal class Program // String, Dynamic Programming, Backtracking
+    internal class Program
     {
         static void Main(string[] args)
         {
