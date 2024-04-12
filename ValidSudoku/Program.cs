@@ -1,6 +1,6 @@
 ﻿namespace ValidSudoku
 {
-    internal class Program
+    internal class Program // Array, Hash Table, Matrix
     {
         static void Main(string[] args)
         {
