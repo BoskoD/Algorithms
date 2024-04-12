@@ -1,6 +1,6 @@
 ﻿namespace EncodeAndDecodeStrings
 {
-    public class Program
+    public class Program // Array, Hasning, String
     {
         static void Main(string[] args)
         {
