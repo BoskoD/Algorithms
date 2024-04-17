@@ -24,10 +24,10 @@
 
             TreeNode result = InvertTree(root);
             
-            PrintPreorder(result); // pre order traversal
-            PrintInorder(result); // in order traversal
-            PrintPostorder(result); // post order traversal
-            PrintTreeLevelOrder(result);    // level order traversal
+            PrintPreorder(result);           // pre order traversal
+            PrintInorder(result);            // in order traversal
+            PrintPostorder(result);          // post order traversal
+            PrintTreeLevelOrder(result);     // level order traversal
 
 
             Console.WriteLine($"\nRight node from root: {result.right.val}\n" +
