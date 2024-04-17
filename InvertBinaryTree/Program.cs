@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Xml.Linq;
 
 namespace InvertBinaryTree
 {
@@ -25,9 +26,14 @@ namespace InvertBinaryTree
             root.right.right = new TreeNode(9);
 
             TreeNode result = InvertTree(root);
-            PrintTree(result);
+            
+            PrintPreorder(result); // pre order traversal
+            PrintInorder(result); // in order traversal
+            PrintPostorder(result); // post order traversal
+            PrintTreeLevelOrder(result);    // level order traversal
 
-            Console.WriteLine($"Right node from root: {result.right.val}\n" +
+
+            Console.WriteLine($"\nRight node from root: {result.right.val}\n" +
                               $"Left node from root: {result.left.val}\n");
         }
 
@@ -45,7 +51,7 @@ namespace InvertBinaryTree
             return root;
         }
 
-        public static void PrintTree(TreeNode root)
+        public static void PrintTreeLevelOrder(TreeNode root)
         {
             if (root == null) { return; }
             
@@ -64,6 +70,47 @@ namespace InvertBinaryTree
                 }
             }
             Console.WriteLine();
+        }
+
+        public static void PrintInorder(TreeNode root)
+        {
+            if (root == null) { return; }
+
+            PrintInorder(root.left);
+
+            // Then print the data of node
+            Console.Write(root.val + " ");
+
+            // Now recur on right child
+            PrintInorder(root.right);
+        }
+
+        public static void PrintPreorder(TreeNode root)
+        {
+            if (root == null) { return; }
+
+            // First print the data of node
+            Console.Write(root.val + " ");
+
+            // Then recur on left child
+            PrintPreorder(root.left);
+
+            // Now recur on right child
+            PrintPreorder(root.right);
+        }
+
+        public static void PrintPostorder(TreeNode root)
+        {
+            if (root == null) { return; }
+
+            // First recur on left child
+            PrintPostorder(root.left);
+
+            // Then recur on right child
+            PrintPostorder(root.right);
+
+            // Now print the data of node
+            Console.Write(root.val + " ");
         }
     }
 
