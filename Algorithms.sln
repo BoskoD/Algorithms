@@ -63,9 +63,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumDepthOfBinaryTree", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiameterOfABinaryTree", "DiameterOfABinaryTree\DiameterOfABinaryTree.csproj", "{54C06363-9D3D-4881-ADF7-EF15D7185581}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAWinnerOnATicTacToeGame", "FindAWinnerOnATicTacToeGame\FindAWinnerOnATicTacToeGame.csproj", "{7603C101-13EF-4478-A184-C3E95A5C43BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindAWinnerOnATicTacToeGame", "FindAWinnerOnATicTacToeGame\FindAWinnerOnATicTacToeGame.csproj", "{7603C101-13EF-4478-A184-C3E95A5C43BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.csproj", "{785AE352-874C-4110-869B-48762DCF9359}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedBinaryTree", "BalancedBinaryTree\BalancedBinaryTree.csproj", "{785AE352-874C-4110-869B-48762DCF9359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SameTree", "SameTree\SameTree.csproj", "{E4633A4D-1621-441B-9D46-1E534FAB4C7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{785AE352-874C-4110-869B-48762DCF9359}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{785AE352-874C-4110-869B-48762DCF9359}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{785AE352-874C-4110-869B-48762DCF9359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4633A4D-1621-441B-9D46-1E534FAB4C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4633A4D-1621-441B-9D46-1E534FAB4C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4633A4D-1621-441B-9D46-1E534FAB4C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4633A4D-1621-441B-9D46-1E534FAB4C7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
