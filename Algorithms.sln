@@ -69,7 +69,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedBinaryTree", "Balan
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SameTree", "SameTree\SameTree.csproj", "{E4633A4D-1621-441B-9D46-1E534FAB4C7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateImage", "RotateImage\RotateImage.csproj", "{60BDC050-CADD-4005-B5B0-F23417EBB955}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateImage", "RotateImage\RotateImage.csproj", "{60BDC050-CADD-4005-B5B0-F23417EBB955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtreeOfAnotherTree", "SubtreeOfAnotherTree\SubtreeOfAnotherTree.csproj", "{548BF7F3-28BC-4520-92A3-BDBA52EDE201}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{60BDC050-CADD-4005-B5B0-F23417EBB955}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60BDC050-CADD-4005-B5B0-F23417EBB955}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60BDC050-CADD-4005-B5B0-F23417EBB955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548BF7F3-28BC-4520-92A3-BDBA52EDE201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548BF7F3-28BC-4520-92A3-BDBA52EDE201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548BF7F3-28BC-4520-92A3-BDBA52EDE201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548BF7F3-28BC-4520-92A3-BDBA52EDE201}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
