@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SameTree", "SameTree\SameTr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateImage", "RotateImage\RotateImage.csproj", "{60BDC050-CADD-4005-B5B0-F23417EBB955}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtreeOfAnotherTree", "SubtreeOfAnotherTree\SubtreeOfAnotherTree.csproj", "{548BF7F3-28BC-4520-92A3-BDBA52EDE201}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtreeOfAnotherTree", "SubtreeOfAnotherTree\SubtreeOfAnotherTree.csproj", "{548BF7F3-28BC-4520-92A3-BDBA52EDE201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfABinarySearchTree", "LowestCommonAncestorOfABinarySearchTree\LowestCommonAncestorOfABinarySearchTree.csproj", "{8D4BB7ED-1BE9-4A3F-9442-DE2A52279BA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{548BF7F3-28BC-4520-92A3-BDBA52EDE201}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{548BF7F3-28BC-4520-92A3-BDBA52EDE201}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{548BF7F3-28BC-4520-92A3-BDBA52EDE201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4BB7ED-1BE9-4A3F-9442-DE2A52279BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4BB7ED-1BE9-4A3F-9442-DE2A52279BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4BB7ED-1BE9-4A3F-9442-DE2A52279BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4BB7ED-1BE9-4A3F-9442-DE2A52279BA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
