@@ -75,7 +75,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtreeOfAnotherTree", "Sub
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LowestCommonAncestorOfABinarySearchTree", "LowestCommonAncestorOfABinarySearchTree\LowestCommonAncestorOfABinarySearchTree.csproj", "{8D4BB7ED-1BE9-4A3F-9442-DE2A52279BA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeLevelOrderTraversal_BFS", "BinaryTreeLevelOrderTraversal_BFS\BinaryTreeLevelOrderTraversal_BFS.csproj", "{F80FA747-44D6-4B66-B10F-82921F459A65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeLevelOrderTraversal_BFS", "BinaryTreeLevelOrderTraversal_BFS\BinaryTreeLevelOrderTraversal_BFS.csproj", "{F80FA747-44D6-4B66-B10F-82921F459A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeRightSideView", "BinaryTreeRightSideView\BinaryTreeRightSideView.csproj", "{C61740D7-10E3-467A-8ABA-5C720838B48F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{F80FA747-44D6-4B66-B10F-82921F459A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F80FA747-44D6-4B66-B10F-82921F459A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F80FA747-44D6-4B66-B10F-82921F459A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61740D7-10E3-467A-8ABA-5C720838B48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61740D7-10E3-467A-8ABA-5C720838B48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61740D7-10E3-467A-8ABA-5C720838B48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61740D7-10E3-467A-8ABA-5C720838B48F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
