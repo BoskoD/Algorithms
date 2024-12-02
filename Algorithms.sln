@@ -81,7 +81,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryTreeRightSideView", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mechanisms", "Mechanisms", "{1AA0789E-924A-4D64-ABDD-C0EF1046AB1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoPointers", "Mechanisms\TwoPointers\TwoPointers.csproj", "{996A9DB3-2096-4FFE-8CAF-D38D6B171AB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoPointers", "Mechanisms\TwoPointers\TwoPointers.csproj", "{996A9DB3-2096-4FFE-8CAF-D38D6B171AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleship", "Battleship\Battleship.csproj", "{AA84E13F-0633-4809-9751-E5046C733E55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -245,6 +247,10 @@ Global
 		{996A9DB3-2096-4FFE-8CAF-D38D6B171AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{996A9DB3-2096-4FFE-8CAF-D38D6B171AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{996A9DB3-2096-4FFE-8CAF-D38D6B171AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA84E13F-0633-4809-9751-E5046C733E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA84E13F-0633-4809-9751-E5046C733E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA84E13F-0633-4809-9751-E5046C733E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA84E13F-0633-4809-9751-E5046C733E55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
